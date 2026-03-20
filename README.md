@@ -1,4 +1,4 @@
-# Hey, I’m Aryan 👋
+# Hey, I’m VISHWESH 👋
 
 > Exploring AI and chatbot development | AI & ML student @ VIT Bhopal.
 
