@@ -41,7 +41,7 @@ Concepts:    OOP, DSA, File Handling, API Integration
 
 ### GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=VISHWESH006\&theme=tokyonight)
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=vishweshBAI&theme=tokyonight)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VISHWESH006\&layout=compact\&theme=radical)
 
 ---
